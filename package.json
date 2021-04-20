@@ -1,0 +1,31 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^11.2.6",
+    "manage-react-app": "0.4.1"
+  },
+  "scripts": {
+    "prepare": "manage-react-app init",
+    "start": "manage-react-app start development",
+    "start:production": "manage-react-app start production",
+    "start:qa": "manage-react-app start qa",
+    "test": "manage-react-app test",
+    "start:staging": "manage-react-app start staging",
+    "eslint-prettier-sync": "eslint-config-prettier config/code-quality/.eslintrc.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "typeAcquisition": {
+    "include": [
+      "jest"
+    ]
+  }
+}
