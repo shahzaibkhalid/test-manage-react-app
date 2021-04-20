@@ -22,10 +22,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "typeAcquisition": {
-    "include": [
-      "jest"
-    ]
-  }
+  "license": "ISC"
 }
