@@ -5,7 +5,7 @@ import About from 'pages/About';
 function App() {
   return (
     <Fragment>
-      <About type='child' children={{}} />
+      <About />
     </Fragment>
   );
 }
