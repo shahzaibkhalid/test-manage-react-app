@@ -22,6 +22,6 @@
     "eslint-prettier-sync": "eslint-config-prettier config/code-quality/.eslintrc.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Shahzaib Khalid",
   "license": "ISC"
 }
