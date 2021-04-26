@@ -10,7 +10,8 @@
   },
   "devDependencies": {
     "@testing-library/react": "^11.2.6",
-    "manage-react-app": "0.4.1"
+    "manage-react-app": "0.4.1",
+    "prop-types": "^15.7.2"
   },
   "scripts": {
     "prepare": "manage-react-app init",

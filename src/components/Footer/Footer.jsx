@@ -1,3 +1,5 @@
+import PropTypes from 'prop-types';
+
 function Footer({ copy, src }) {
   return (
     <>
@@ -6,5 +8,10 @@ function Footer({ copy, src }) {
     </>
   );
 }
+
+Footer.propTypes = {
+  copy: PropTypes.string,
+  src: PropTypes.string,
+};
 
 export default Footer;
