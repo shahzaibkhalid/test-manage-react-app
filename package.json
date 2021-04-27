@@ -23,6 +23,6 @@
     "eslint-prettier-sync": "eslint-config-prettier config/code-quality/.eslintrc.js"
   },
   "keywords": [],
-  "author": "Shahzaib Khalid",
+  "author": "Shahzaib Khalid <hi@shahzaibkhalid.com>",
   "license": "MIT"
 }
