@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@testing-library/react": "^11.2.6",
-    "manage-react-app": "0.4.1",
+    "manage-react-app": "0.5.0",
     "prop-types": "^15.7.2"
   },
   "scripts": {
@@ -22,7 +22,6 @@
     "start:staging": "manage-react-app start staging",
     "eslint-prettier-sync": "eslint-config-prettier config/code-quality/.eslintrc.js"
   },
-  "keywords": [],
   "author": "Shahzaib Khalid <hi@shahzaibkhalid.com>",
   "license": "MIT"
 }
